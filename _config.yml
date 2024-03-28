@@ -1,8 +1,6 @@
 # (string) Title of your wiki
-股票预测大语言模型
-title: 
-股票预测大语言模型知识合集
-description: 
+title: 股票预测大语言模型
+description: 股票预测大语言模型知识合集
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
